@@ -1,0 +1,23 @@
+{
+  "name": "robot-stores",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haefnir/robot-stores.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haefnir/robot-stores/issues"
+  },
+  "homepage": "https://github.com/haefnir/robot-stores#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "promise-mysql": "^5.2.0"
+  }
+}
